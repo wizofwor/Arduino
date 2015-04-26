@@ -53,7 +53,6 @@ void loop(){
        Serial.println(". led yakildi.");
        //Hedeflenen ledi yakalim
        digitalWrite(hedef+1,HIGH);
-
   }
 }
 
