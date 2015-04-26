@@ -48,3 +48,5 @@ Veri alma kısmı tamam. Şimdi de serial kütüphanesi kullanılarak Arduino'ya
   ````
   
 Artık seri port ekranında 1 ile 5 arasında bir değer girerek istediğim ledi yakabiliyorum. Kodun doğru çalışabilmesi için monitör penceresinde `Satır sonu yok` seçeneğinin saçili olmasını gerekiyor. Aksi halde girilen sayıyla birlikte `\n` yani newline karakteri de gönderiliyor. Bu `Serial.parseInt();` karşılaştığı numerik olmayan her değeri 0 olarak yorumladığı için sorun olacaktır.  
+
+
