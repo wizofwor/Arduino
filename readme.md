@@ -1,6 +1,8 @@
 #Temel Arduino Dersleri
 
-Eğer henüz Arduino için gerekli malzemeleri almadıysanız, alışverişe çıkmadadan önce [şu sayfayı](http://) okumanızı tavsiye ederim.
+![image](https://github.com/wizofwor/arduino/blob/master/arduino-uno.jpg?raw=true)
+
+Eğer henüz Arduino için gerekli malzemeleri almadıysanız, alışverişe çıkmadadan önce [şu sayfayı](https://github.com/wizofwor/arduino/blob/master/gerekli-seyler.md) okumanızı tavsiye ederim.
 
 ##Dersler
 
