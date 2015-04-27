@@ -36,3 +36,5 @@ Efektin daha güzel görünmesi için geri dönüşünü de yapmak lazım. Bunun
 Kodum hazır. Son olarak aşağıdaki devreyi kurmam gerekli. Aslında bir önceki derste kurduğumuz devrenin aynısı. Tek farkı bir yerine beş led var. 
 
 ![Breadbord](https://github.com/wizofwor/arduino/blob/master/02-led-flash/led-flash_bb.png?raw=true)
+
+![Efekt](https://vine.co/v/eWIvIqTtTj9)
