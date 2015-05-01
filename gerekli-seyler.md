@@ -6,6 +6,8 @@ Eğitimler boyunca kullandığım malzemeleri buraya yazacağım. Başlangıç o
 
 ## Temel malzemeler
 
+Temel malzemeler için alışveriş listem aşağıda. Bunları tek tek alabileceğiniz gibi hazır olarak satılan Arduino başlangıç setlerinden da satın alabilirsiniz.
+
 1. Arduino veya uyumlu bir kart. Ben DCduino UNO kullanıyorum.
 2. USB kablosu,
 3. Büyük boy breadbord,
@@ -15,15 +17,20 @@ Eğitimler boyunca kullandığım malzemeleri buraya yazacağım. Başlangıç o
 7. Direnç seti,  
 8. Push buton
 
-Direnç Seti:  
-220 ohm, 330 ohm, 10 k ohm, 4.7 k ohm, 1 k ohm
+**Direnç Seti:**  
+Elinizin altında farklı değerde dirençlerden bulunmasında her zaman fayda var. Benim tavsiyem 220 ohm, 330 ohm, 10k ohm, 1k ohm ve 4.7k ohm dirençlerden en az 5'er tane almanız.
 
 ## Çok faydası olacak yardımcı malzemeler
+
+Bunlar da elektronikle ilgilenen herkesde bulunması gereken malzemeler. Arduino projelerini bu malzemeler olmadan da yaparsınız ama bunları aldığınıza asla pişman olmayacaksınız.  
 
 1. Dijital Multimetre
 2. Breadboard tipi güç kaynağı
 3. Arduino'nun girişine uygun 9-12V adaptör
 4. Ufak tefek parçaları kaybetmeden saklayacağımız plastik çekmece seti
+
+Farkettiyseniz havya, lehim, pasta vb. malzemelerden hiç bahsetmedim. Breadbord sayesinde bunlara *şimdilik* htiyacımız yok.
+
 
 
 ## Temel Yazılımlar
