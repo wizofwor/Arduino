@@ -12,4 +12,4 @@ Eğer henüz Arduino için gerekli malzemeleri almadıysanız, alışverişe ç�
 2. [Led Flash (Karaşimşek)](https://github.com/wizofwor/arduino/tree/master/02-led-flash)
 3. [Buton kontrolü](https://github.com/wizofwor/arduino/tree/master/03-button)
 4. [Arduino ile haberleşme](https://github.com/wizofwor/arduino/tree/master/04-haberlesme)
-5. [LCD ekran kullanımı](https://github.com/wizofwor/arduino/tree/master/05-LCD-ekran-kullinimi)
+5. [LCD ekran kullanımı](https://github.com/wizofwor/arduino/tree/master/05-LCD-ekran-kullanimi)
