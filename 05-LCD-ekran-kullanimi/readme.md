@@ -1,8 +1,6 @@
 # LCD ekran kullanımı
 
-## LCD Tipleri
-
-Arduino ile kullanabileceğimiz karakter ve grafik tabanlı olanlı LCD'ler mevcut. Karakter tabanlı LCD'leri kullanmak nispeten daha kolay. Grafik tabanlılar biraz daha karışık. Bu örnekte ben karakter tabanlı bir LCD kullandım. 
+Arduino ile kullanabileceğimiz karakter ve grafik tabanlı LCD'ler mevcut. Karakter tabanlı LCD'leri kullanmak nispeten daha kolay. Grafik tabanlılar biraz daha karışık. Bu örnekte ben karakter tabanlı bir LCD kullandım. 
 
 Ardunio'ya LCD ekran bağlamanın iki yöntemi var. Seri ve paralel bağlantı. Hobicilerin sıklıkla başvurduğu 16x2 karakterlik LCD ekranlar paralel bağlantı kullanıyorlar. Bu bir sürü kablo demek. Alternatif olarak backpak denilen LCD denetleyicileri ile seri bağlantı kullanmak ve kablo sayısını 4'e indirmek mümkün.
 
