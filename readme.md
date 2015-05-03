@@ -12,7 +12,8 @@ Dersleri takip edebilmek için biraz programa alt yapısı gerekecek. C dilini (
 ##Dersler
 
 1. [Led Yakıp Söndürmece](01-led-yakip-sondurmece)
-2. [Led Flash (Karaşimşek)](https://github.com/wizofwor/arduino/tree/master/02-led-flash)
-3. [Buton kontrolü](https://github.com/wizofwor/arduino/tree/master/03-button)
-4. [Arduino ile haberleşme](https://github.com/wizofwor/arduino/tree/master/04-haberlesme)
-5. [LCD ekran kullanımı](https://github.com/wizofwor/arduino/tree/master/05-LCD-ekran-kullanimi)
+2. [Led Flash (Karaşimşek)](02-led-flash)
+3. [Buton kontrolü](03-button)
+4. [Arduino ile haberleşme](04-haberlesme)
+5. [LCD ekran kullanımı](05-LCD-ekran-kullanimi)
+6. [Taş-kağıt-makas oyunu](06-Tas-Kagit-Makas)
