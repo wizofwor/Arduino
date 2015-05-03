@@ -39,4 +39,4 @@ Kodum hazır. Son olarak aşağıdaki devreyi kurmam gerekli. Aslında bir önce
 
 ![Breadbord](https://github.com/wizofwor/arduino/blob/master/02-led-flash/led-flash_bb.png?raw=true)
 
-![Efekt](https://vine.co/v/eWIvIqTtTj9)
+
