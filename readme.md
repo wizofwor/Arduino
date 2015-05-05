@@ -1,6 +1,6 @@
-#Temel Arduino Dersleri
+﻿#Temel Arduino Dersleri
 
-![image](https://github.com/wizofwor/arduino/blob/master/arduino-uno.jpg?raw=true)
+![image](https://github.com/wizofwor/arduino/blob/master/arduino-uno.png?raw=true)
 
 Bu sayfalarda hep beraber Arduino öğreniyoruz! İsterseniz derslere başlamadan önce [Arduino nedir][1] yazıma bir göz atmak isteyebilirisiniz. Eğer henüz Arduino için gerekli malzemeleri almadıysanız, alışverişe çıkmadadan önce [gerekli şeyler][2] sayfama bir göz gezdirmenizde fayda var.
 
