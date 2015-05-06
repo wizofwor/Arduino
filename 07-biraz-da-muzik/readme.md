@@ -23,7 +23,7 @@ Kullandığım buzzer'ın aslında bir piezo transducer olduğunu söylemiştim.
 
 > PWM yani Pulse Widh Modulation dijital pinlerden Analog sinyal gönderiyormuş gibi yapmanın bir yöntemidir. Arduino Uno'nun dijital pinleri sadece 0 ve +5V volt verebilir. Ancak 3,5,6,9,10 ve 11 dijital pinler analog sinyal gönderiyormuş gibi yapabilirler nasıl mı? Kare dalga üreterek ve kare dalganın on (5 V) ve off (0 V) olduğu zaman dilimlerini değiştirerek.
 
-Koduma pmw değerini tanımlayarak başlıdım. Bu değer sesin tonunu belirleyecek.
+Koduma pmw değerini tanımlayarak başladım. Bu değer sesin tonunu belirleyecek.
 
 ````
 const int pmwValue = 200; //1 ile 255 arasnda bir deger verebilirsiniz.
