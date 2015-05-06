@@ -16,6 +16,7 @@ Temel malzemeler için alışveriş listem aşağıda. Bunları tek tek alabilec
 6. En az 1 adet RGB led, 
 7. Direnç seti,  
 8. Push buton
+9. Pasif buzzer (piezo transducer)
 
 **Direnç Seti:**  
 Elinizin altında farklı değerde dirençlerden bulunmasında her zaman fayda var. Benim tavsiyem 220 ohm, 330 ohm, 10k ohm, 1k ohm ve 4.7k ohm dirençlerden en az 5'er tane almanız.
