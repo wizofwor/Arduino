@@ -18,10 +18,23 @@ Derslere başlamadan önce kullandığım iki yazılımdan bahsetmek istiyorum. 
 
 ##Dersler
 
-1. [Led Yakıp Söndürmece](01-led-yakip-sondurmece)
-2. [Led Flash (Karaşimşek)](02-led-flash)
-3. [Buton kontrolü](03-button)
-4. [Arduino ile haberleşme](04-haberlesme)
-5. [LCD ekran kullanımı](05-LCD-ekran-kullanimi)
-6. *Oyun Molası: [Taş-kağıt-makas oyunu](06-Tas-Kagit-Makas)*
+###Işık ve Ses
+
+1. [Led Yakıp Söndürmece][1]
+2. [Led Flash:][2] Nam-ı diğer Karaşimşek devresi
+3. [Buton kontrolü][3]
+5. [LCD ekran kullanımı][5]
+6. [Oyun Molası:][6] Taş-kağıt-makas oyunu
 7. [Biraz da müzik](07-biraz-da-muzik)
+
+[1]:https://github.com/wizofwor/arduino/tree/master/01-led-yakip-sondurmece
+[2]:https://github.com/wizofwor/arduino/tree/master/02-led-flash
+[3]:https://github.com/wizofwor/arduino/tree/master/03-button
+[5]:https://github.com/wizofwor/arduino/tree/master/05-LCD-ekran-kullanimi
+[6]:https://github.com/wizofwor/arduino/tree/master/06-Tas-Kagit-Makas
+
+###Haberleşme
+
+1. [Arduino ile haberleşme:][1] Bilgisayarla Arduino arasında veri alış-verişi
+
+[1]:https://github.com/wizofwor/arduino/tree/master/301-haberlesme
