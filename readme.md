@@ -24,15 +24,19 @@ Derslere başlamadan önce kullandığım iki yazılımdan bahsetmek istiyorum. 
 2. [Led Flash:][2] Nam-ı diğer Karaşimşek devresi
 3. [Buton kontrolü][3]
 5. [LCD ekran kullanımı][5]
-6. [Oyun Molası:][6] Taş-kağıt-makas oyunu
-7. [Biraz da müzik][7]
+6. *[Oyun Molası:][6] Taş-kağıt-makas oyunu*
+7. [78HC595:][7] Shift register kullanımı
+7. [Biraz da müzik:][8] Buzzer kullanımı
+8. [Biraz daha müzik][9] Notalar
 
 [1]:https://github.com/wizofwor/arduino/tree/master/101-led-yakip-sondurmece
 [2]:https://github.com/wizofwor/arduino/tree/master/102-led-flash
 [3]:https://github.com/wizofwor/arduino/tree/master/103-button
 [5]:https://github.com/wizofwor/arduino/tree/master/105-LCD-ekran-kullanimi
 [6]:https://github.com/wizofwor/arduino/tree/master/106-Tas-Kagit-Makas
-[7]:https://github.com/wizofwor/arduino/tree/master/107-biraz-da-muzik
+[7]:https://github.com/wizofwor/arduino/tree/master/110-74HC595
+[8]:https://github.com/wizofwor/arduino/tree/master/107-biraz-da-muzik
+[9]:https://github.com/wizofwor/arduino/tree/master/108-biraz-daha-muzik
 
 ###Haberleşme
 
