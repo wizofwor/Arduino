@@ -65,10 +65,10 @@ void beep(int sure){
 ````
 
 ##Sonuç
-Buzzer'ın sesini duydum ama müzik çalamadım. En iyisi bu işi adımlara bölmek. Bu örneğin kodunu [beep/][1] klasörüne kaydettim. Müzik için ikinci bir program yazacağım. Devam yazısını [readme02.md][2]'den okuyabilirsiniz.
+Buzzer'ın sesini duydum ama müzik çalamadım. En iyisi bu işi adımlara bölmek. Bu örneğin kodunu [beep/][1] klasörüne kaydettim. Müzik için ikinci bir program yazacağım. Devamını [biraz-daha-muzik][2] yazısında okuyabilirsiniz.
 
 [1]: beep/
-[2]: readme02.md
+[2]: ../108-biraz-daha-muzik/
 
 
 
