@@ -15,6 +15,9 @@ OSX altında IDE'ye kütüphane eklemek için kütüphane dosyasını `~/Documen
 
 İkinci aşamada ise port adresini ve doğru pinleri bulmak gerekli. LCD beraberinde herhangi bir datasheet gelmediği için kullanılan pin konfigurasyonu bilemiyoruz. Bunun için arduino.cc forumlarından Bill Perry'nin hazırladığı **i2cLCDGuesser** taslağını kullandım. Bu program i2c cihazının adresini buluyor ve en çok kullanılan pin konfigürasyonlarını sırayla deniyor.
 
+Programın bir kopyasını [i2cLCDguesser/][1] yolunda bulabilirsiniz.
+[1]:i2cLCDguesser/
+
 ## Bağlantı
 
 i2c için sadece 4 kablo bağlantı yapacağımı söylemiştim ama iş o kadar da basit değil. Sağlıklı bir haberleşme için SDL ve SCL hatlarına 4.7 k ohm'luk pull-up dirençleri bağlamak gerekiyor. Ben aşağıdaki gibi bir devre kurdum. 

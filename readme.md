@@ -25,13 +25,14 @@ Derslere başlamadan önce kullandığım iki yazılımdan bahsetmek istiyorum. 
 3. [Buton kontrolü][3]
 5. [LCD ekran kullanımı][5]
 6. [Oyun Molası:][6] Taş-kağıt-makas oyunu
-7. [Biraz da müzik](07-biraz-da-muzik)
+7. [Biraz da müzik][7]
 
-[1]:https://github.com/wizofwor/arduino/tree/master/01-led-yakip-sondurmece
-[2]:https://github.com/wizofwor/arduino/tree/master/02-led-flash
-[3]:https://github.com/wizofwor/arduino/tree/master/03-button
-[5]:https://github.com/wizofwor/arduino/tree/master/05-LCD-ekran-kullanimi
-[6]:https://github.com/wizofwor/arduino/tree/master/06-Tas-Kagit-Makas
+[1]:https://github.com/wizofwor/arduino/tree/master/101-led-yakip-sondurmece
+[2]:https://github.com/wizofwor/arduino/tree/master/102-led-flash
+[3]:https://github.com/wizofwor/arduino/tree/master/103-button
+[5]:https://github.com/wizofwor/arduino/tree/master/105-LCD-ekran-kullanimi
+[6]:https://github.com/wizofwor/arduino/tree/master/106-Tas-Kagit-Makas
+[7]:https://github.com/wizofwor/arduino/tree/master/107-biraz-da-muzik
 
 ###Haberleşme
 
