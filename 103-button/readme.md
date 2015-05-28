@@ -11,6 +11,6 @@ Buton'un bir bacağı 8 numaralı dijital pine, diğer bacağı GND'ye bağlı o
 
 Yapmam gereken devreyi alttaki gibi değiştirmek ve [yeni sketchi ](https://github.com/wizofwor/arduino/blob/master/03-button/button/button.ino) yüklemek. Yeni devremde düğmeye bastığımda *kara şimşek* efekti çalışıyor.
 
-<img src="https://github.com/wizofwor/arduino/blob/master/03-button/button_bb.png?raw=true" width=500>
+<img src="button_bb.png" width=500>
 
 
