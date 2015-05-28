@@ -17,7 +17,8 @@ Tek bilmemiz gereken notaların frekans degerleri. Onlar da aşağıdaki tabloda
   
 Anlatmaya başlamadan önce, unutmadan söyleyeyim örnek kodu [muzik01/][1] klasöründen alabilirsiniz. Kullandığım devre ise [bir önceki][2] örnekle aynı.
 
-![3]
+[1]:muzik01/
+[2]:../107-biraz-da-muzik
 
 Programın başında çalınacak notaları, vuruş degerlerini ve tempoyu girerek çalacağim müziği tanımlıyorum. 
   
