@@ -6,7 +6,7 @@ Bu sayfalarda hep beraber Arduino öğreniyoruz! İsterseniz derslere başlamada
 
 Dersleri takip edebilmek için biraz programa alt yapısı gerekecek. C dilini (veya C söz dizimine sahip başka bir dil) biliyor olmanız gerekiyor. Elektronik konusunda sıkıntı yok. Onu beraber öğreneceğiz.
 
-[1]: http://https://github.com/wizofwor/arduino/tree/master/arduino-nedir.md "Arduino nedir?"
+[1]: https://github.com/wizofwor/arduino/tree/master/arduino-nedir.md "Arduino nedir?"
 [2]: https://github.com/wizofwor/arduino/blob/master/gerekli-seyler.md "Gerekli şeyler"
 
 ##Temel Yazılımlar
