@@ -38,7 +38,7 @@ Derslere başlamadan önce kullandığım iki yazılımdan bahsetmek istiyorum. 
 [7]:https://github.com/wizofwor/arduino/tree/master/110-74HC595
 [8]:https://github.com/wizofwor/arduino/tree/master/107-biraz-da-muzik
 [9]:https://github.com/wizofwor/arduino/tree/master/108-biraz-daha-muzik
-[10]:https://github.com/wizofwor/arduino/tree/master/109-7-segmentli-gösterge
+[10]:https://github.com/wizofwor/arduino/tree/master/109-7-segmentli-gosterge
 ###İkinci Bölüm: Haberleşme
 
 1. [Arduino ile haberleşme:][1] Bilgisayarla Arduino arasında veri alış-verişi
