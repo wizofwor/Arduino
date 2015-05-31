@@ -18,13 +18,14 @@ Derslere başlamadan önce kullandığım iki yazılımdan bahsetmek istiyorum. 
 
 ##Dersler
 
-###Işık ve Ses
+###Birinci Bölüm: Işık ve Ses
 
 1. [Led Yakıp Söndürmece][1]
 2. [Led Flash:][2] Nam-ı diğer Karaşimşek devresi
 3. [Buton kontrolü][3]
 5. [LCD ekran kullanımı][5]
 6. *[Oyun Molası:][6] Taş-kağıt-makas oyunu*
+7. [7 segmentli gösterge:][10] 7 segmentli gösterge (7 segment display) kullanımı
 7. [78HC595:][7] Shift register kullanımı
 7. [Biraz da müzik:][8] Buzzer kullanımı
 8. [Biraz daha müzik][9] Notalar
@@ -37,8 +38,8 @@ Derslere başlamadan önce kullandığım iki yazılımdan bahsetmek istiyorum. 
 [7]:https://github.com/wizofwor/arduino/tree/master/110-74HC595
 [8]:https://github.com/wizofwor/arduino/tree/master/107-biraz-da-muzik
 [9]:https://github.com/wizofwor/arduino/tree/master/108-biraz-daha-muzik
-
-###Haberleşme
+[10]:https://github.com/wizofwor/arduino/tree/master/109-7-segmentli-gösterge
+###İkinci Bölüm: Haberleşme
 
 1. [Arduino ile haberleşme:][1] Bilgisayarla Arduino arasında veri alış-verişi
 

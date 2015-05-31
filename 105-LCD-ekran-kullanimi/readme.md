@@ -86,7 +86,6 @@ void loop(){
 } 
 ````
 
-Bu şekilde Merhaba Dünya programı bu şekilde tamamlanmış oldu.
 
 
 
