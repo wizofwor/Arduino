@@ -26,9 +26,9 @@ Derslere başlamadan önce kullandığım iki yazılımdan bahsetmek istiyorum. 
 5. [LCD ekran kullanımı][5]
 6. *[Oyun Molası:][6] Taş-kağıt-makas oyunu*
 7. [7 segmentli gösterge:][10] 7 segmentli gösterge (7 segment display) kullanımı
-7. [78HC595:][7] Shift register kullanımı
-7. [Biraz da müzik:][8] Buzzer kullanımı
-8. [Biraz daha müzik][9] Notalar
+8. [78HC595:][7] Shift register kullanımı
+9. [Biraz da müzik:][8] Buzzer kullanımı
+10. [Biraz daha müzik][9] Notalar
 
 [1]:https://github.com/wizofwor/arduino/tree/master/101-led-yakip-sondurmece
 [2]:https://github.com/wizofwor/arduino/tree/master/102-led-flash
