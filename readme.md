@@ -16,19 +16,21 @@ Derslere başlamadan önce kullandığım iki yazılımdan bahsetmek istiyorum. 
 [3]: http://www.arduino.cc/en/main/Software
 [4]: http://fritzing.org/home/
 
-##Dersler
+##Örnek Devre ve Kodlar
 
-###Birinci Bölüm: Işık ve Ses
+###Arduino'ya giriş: Işık ve Ses
+
+Yeni başlayanlar için hazırlanan dökümanların genellikle led devreleri üzerine olması tesadüf değil. Işık ve ses devreleri en az bileşenle sonuç edelde edebileceğin pratik devrelerdir. Biz de Arduino öğrenmeye led ve buzzer ile başlayacağız.
 
 1. [Led Yakıp Söndürmece][5]
 2. [Led Flash:][6] Nam-ı diğer Karaşimşek devresi
 3. [Buton kontrolü][7]
-5. [LCD ekran kullanımı][8]
-6. *[Oyun Molası:][9] Taş-kağıt-makas oyunu*
-7. [7 segmentli gösterge:][10] 7 segmentli gösterge (7 segment display) kullanımı
-8. [74HC595:][11] Shift register kullanımı
-9. [Biraz da müzik:][12] Buzzer kullanımı
-10. [Biraz daha müzik][13] Notalar
+4. [LCD ekran kullanımı][8]
+5. *[Oyun Molası:][9] Taş-kağıt-makas oyunu*
+6. [7 segmentli gösterge:][10] 7 segmentli gösterge (7 segment display) kullanımı
+7. [74HC595:][11] Shift register kullanımı
+8. [Biraz da müzik:][12] Buzzer kullanımı
+9. [Biraz daha müzik][13] Notalar
 
 [5]:https://github.com/wizofwor/arduino/tree/master/101-led-yakip-sondurmece
 [6]:https://github.com/wizofwor/arduino/tree/master/102-led-flash
@@ -42,6 +44,6 @@ Derslere başlamadan önce kullandığım iki yazılımdan bahsetmek istiyorum. 
 
 ###İkinci Bölüm: Haberleşme
 
-21. [Arduino ile haberleşme:][1] Bilgisayarla Arduino arasında veri alış-verişi
+21. [Arduino ile haberleşme:][21] Bilgisayarla Arduino arasında veri alış-verişi
 
-[21]:https://github.com/wizofwor/arduino/tree/master/301-haberlesme
+[21]:https://github.com/wizofwor/arduino/tree/master/haberlesme/01-haberlesme
