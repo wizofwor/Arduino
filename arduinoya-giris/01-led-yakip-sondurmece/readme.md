@@ -12,7 +12,7 @@ Basitçe anlatmak gerekirse 10 numaralı Digital pinden gelen sinyali led'i besl
 
 Elemanların breadboard üzerindeki yerleşimini aşağıda görüyorsunuz.
 
-<img src=https://github.com/wizofwor/arduino/blob/master/01-led-yakip-sondurmece/led-blink_bb.png?raw=true width=500>
+<img src=led-blink_bb.png width=500>
 
 ## İlk Arduino Taslağım
 
