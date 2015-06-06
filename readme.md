@@ -32,15 +32,15 @@ Yeni başlayanlar için hazırlanan dökümanların genellikle led devreleri üz
 8. [Biraz da müzik:][12] Buzzer kullanımı
 9. [Biraz daha müzik][13] Notalar
 
-[5]:https://github.com/wizofwor/arduino/tree/master/101-led-yakip-sondurmece
-[6]:https://github.com/wizofwor/arduino/tree/master/102-led-flash
-[7]:https://github.com/wizofwor/arduino/tree/master/103-button
-[8]:https://github.com/wizofwor/arduino/tree/master/105-LCD-ekran-kullanimi
-[9]:https://github.com/wizofwor/arduino/tree/master/106-Tas-Kagit-Makas
-[11]:https://github.com/wizofwor/arduino/tree/master/110-74HC595
-[12]:https://github.com/wizofwor/arduino/tree/master/107-biraz-da-muzik
-[13]:https://github.com/wizofwor/arduino/tree/master/108-biraz-daha-muzik
-[10]:https://github.com/wizofwor/arduino/tree/master/109-7-segmentli-gosterge
+[5]:https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/01-led-yakip-sondurmece
+[6]:https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/02-led-flash
+[7]:https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/03-button
+[8]:https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/05-LCD-ekran-kullanimi
+[9]:https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/06-Tas-Kagit-Makas
+[11]:https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/10-74HC595
+[12]:https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/07-biraz-da-muzik
+[13]:https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/08-biraz-daha-muzik
+[10]:https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/09-7-segmentli-gosterge
 
 ###İkinci Bölüm: Haberleşme
 
