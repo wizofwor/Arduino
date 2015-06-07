@@ -32,7 +32,7 @@ Yeni başlayanlar için hazırlanan dökümanların genellikle led devreleri üz
 8. [Biraz da müzik:][12] Buzzer kullanımı
 9. [Biraz daha müzik][13] Notalar
 
-[5]:https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/01-led-yakip-sondurmece
+[5]: arduinoya-giris/01-led-yakip-sondurmece
 [6]:https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/02-led-flash
 [7]:https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/03-button
 [8]:https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/05-LCD-ekran-kullanimi

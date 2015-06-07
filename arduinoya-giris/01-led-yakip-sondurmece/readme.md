@@ -1,14 +1,26 @@
 # Led Yakıp Söndürmek
 
-Arduino ile kuracağım ilk devre yanıp sönen bir ledded ibaret olacak. İlk olarak devremizi kurmamız lazım.
+Arduino ile kuracağım ilk devre yanıp sönen bir ledden ibaret olacak. Kullanacağım malzemeler:
 
-Eğer daha önce *breadboard* kullanmadıysanız ve nasıl çalıştığını bilmiyorsanız. Öğrenme vakti geldi. Breadboard'ı elektronik bir deneme tahtası olarak düşünebilirsiniz. Breadboard üzerindeki deliklerin içindeki mekanik kıskaçlar yer alır. Bunlar yerleştirilen devre elemanlarını tutarak lehimsiz bir bağlantı sağlarlar. Delik aralıkları standarttır. Yani her türlü devra elamanı, entegre, mikrodenetleyi, sensör vb. bağlayabilirsiniz. Breadboard'un her iki yanında bulunan ikişer sıra, kımızı ve mavi işaretli pinler bir birine bağlıdır. İçerideki pinler ise kendi aralarında yatayda bağlıdırlar. Yalnız ortadaki yarığın sağı ve solunda gruplar arasında bağlantı yoktur. İlk başta biraz karışık geldiğini biliyorum ama biraz kullanınca bu dizilimin ne kadar pratik olduğunu göreceksiniz. 
+- Arduino UNO
+- Breadboard
+- 5 mm led
+- 220 ohm direnç
+
+##Breadboard
+Eğer daha önce *breadboard* kullanmadıysanız ve nasıl çalıştığını bilmiyorsanız. Öğrenme vakti geldi. Breadboard'ı elektronik bir deneme tahtası olarak düşünebilirsiniz.
+
+Breadboard üzerindeki deliklerin içindeki mekanik kıskaçlar yer alır. Bunlar yerleştirilen devre elemanlarını tutarak lehimsiz bir bağlantı sağlarlar. Delik aralıkları standarttır. Yani her türlü devra elamanı, entegre, mikrodenetleyi, sensör vb. bağlayabilirsiniz. Breadboard'un her iki yanında bulunan ikişer sıra, kımızı ve mavi işaretli pinler bir birine bağlıdır. İçerideki pinler ise kendi aralarında yatayda bağlıdırlar. Yalnız ortadaki yarığın sağı ve solunda gruplar arasında bağlantı yoktur.
+
+İlk başta biraz karışık geldiğini biliyorum ama biraz kullanınca bu dizilimin ne kadar pratik olduğunu göreceksiniz. 
 
 ## Devre elamanlarının bağlanması 
 
 İlk devremde sadece bir adet LED ve 220 ohm'luk direnç kullanacağım. 
 
-Basitçe anlatmak gerekirse 10 numaralı Digital pinden gelen sinyali led'i beslemek için kullanacağım. Led'i korumak için de arkasına 220 ohm'luk direncibağladım. Bu durumda eğer 10 numaralı Digital pin'i `HIGH` yaparsam led yanacak.
+Basitçe anlatmak gerekirse 10 numaralı Digital pinden gelen sinyali ledi beslemek için kullanacağım. Ledi korumak için de arkasına 220 ohm'luk direnci bağladım.
+
+Bu durumda eğer 10 numaralı Digital pin'i `HIGH` yaparsam led yanacak.
 
 Elemanların breadboard üzerindeki yerleşimini aşağıda görüyorsunuz.
 
