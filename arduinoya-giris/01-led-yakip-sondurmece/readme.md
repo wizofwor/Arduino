@@ -55,5 +55,6 @@ setup bölümünde `pinMode(10, OUTPUT);` komutuyla 10 dumaralı dijital pin'i �
 
 Loop bölümünde ise `digitalWrite(10,HIGH);` ve `digitalWrite(10,LOW);` komutlarıyla ledi yakıp söndürüyorum. `delay()` komutuyla bekleme yaptığımı farketmişsinizdir. Buradaki gecikme değeriyle oynayarak çeşitli efektler yaratabilirsiniz.    
 
+**Ek bilgi:** [led kullanimi ve led hesabı](led-kullanimi.md)
 
 
