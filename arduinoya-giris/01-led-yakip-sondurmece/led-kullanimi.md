@@ -28,7 +28,7 @@ Renkler| Kırmızı|Turuncu|Sarı|Yeşil|Mavi|Beyaz
 
 Akımın 20ma olması için gereken direnç:
 
-**Vd = I x R **  
+**Vd = I x R**  
 **R = Vd/I = 3.2/20 = 160 ohm**
 
 Eğer hesapladığımız direnç elimizde yoksa elimizdeki en yakın büyük değerli direnci kullanırız.  
