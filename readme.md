@@ -43,10 +43,13 @@ Yeni başlayanlar için hazırlanan dökümanların genellikle led devreleri üz
 [10]:https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/09-7-segmentli-gosterge
 
 ###Ek bilgiler
-1. **Ek bilgi:** [led kullanimi ve led hesabı](arduinoya-giris/01-led-yakip-sondurmece/led-kullanimi.md)
+1. [Led kullanimi ve led hesabı][21]
+
+[21]:arduinoya-giris/01-led-yakip-sondurmece/led-kullanimi.md
+
 
 ###İkinci Bölüm: Haberleşme
 
-21. [Arduino ile haberleşme:][21] Bilgisayarla Arduino arasında veri alış-verişi
+21. [Arduino ile haberleşme:][31] Bilgisayarla Arduino arasında veri alış-verişi
 
-[21]:https://github.com/wizofwor/arduino/tree/master/haberlesme/01-haberlesme
+[31]:https://github.com/wizofwor/arduino/tree/master/haberlesme/01-haberlesme

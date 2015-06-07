@@ -1,4 +1,4 @@
-#Led Kullanımı
+#Led Kullanımı ve Led Hesabı
 
 <img src=led.png>
 
