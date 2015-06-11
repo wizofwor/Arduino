@@ -13,33 +13,68 @@
     <section class="page-header">
       <h1 class="project-name">Temel Arduino Dersleri</h1>
       <h2 class="project-tagline"></h2>
-      <a href="https://github.com/wizofwor/arduino" class="btn">View on GitHub</a>
-      <a href="https://github.com/wizofwor/arduino/zipball/master" class="btn">Download .zip</a>
-      <a href="https://github.com/wizofwor/arduino/tarball/master" class="btn">Download .tar.gz</a>
+      <a href="https://github.com/wizofwor/Arduino" class="btn">View on GitHub</a>
+      <a href="https://github.com/wizofwor/Arduino/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/wizofwor/Arduino/tarball/master" class="btn">Download .tar.gz</a>
     </section>
 
     <section class="main-content">
       <h1>
 <a id="temel-arduino-dersleri" class="anchor" href="#temel-arduino-dersleri" aria-hidden="true"><span class="octicon octicon-link"></span></a>Temel Arduino Dersleri</h1>
 
-<p><img src="https://github.com/wizofwor/arduino/blob/master/arduino-uno.jpg?raw=true" alt="image"></p>
+<p><img src="https://github.com/wizofwor/arduino/blob/master/arduino-uno.png?raw=true" alt="image"></p>
 
-<p>Bu sayfalarda hep beraber Arduino öğreniyoruz!</p>
+<p>Bu sayfalarda hep beraber Arduino öğreniyoruz! İsterseniz derslere başlamadan önce <a href="https://github.com/wizofwor/arduino/tree/master/arduino-nedir.md" title="Arduino nedir?">Arduino nedir</a> yazıma bir göz atmak isteyebilirisiniz. Eğer henüz Arduino için gerekli malzemeleri almadıysanız, alışverişe çıkmadadan önce <a href="https://github.com/wizofwor/arduino/blob/master/gerekli-seyler.md" title="Gerekli şeyler">gerekli şeyler</a> sayfama bir göz gezdirmenizde fayda var.</p>
 
-<p>Eğer henüz Arduino için gerekli malzemeleri almadıysanız, alışverişe çıkmadadan önce <a href="https://github.com/wizofwor/arduino/blob/master/gerekli-seyler.md">şu sayfayı</a> okumanızı tavsiye ederim.</p>
+<p>Dersleri takip edebilmek için biraz programa alt yapısı gerekecek. C dilini (veya C söz dizimine sahip başka bir dil) biliyor olmanız gerekiyor. Elektronik konusunda sıkıntı yok. Onu beraber öğreneceğiz.</p>
 
 <h2>
-<a id="dersler" class="anchor" href="#dersler" aria-hidden="true"><span class="octicon octicon-link"></span></a>Dersler</h2>
+<a id="temel-yazılımlar" class="anchor" href="#temel-yaz%C4%B1l%C4%B1mlar" aria-hidden="true"><span class="octicon octicon-link"></span></a>Temel Yazılımlar</h2>
+
+<p>Derslere başlamadan önce kullandığım iki yazılımdan bahsetmek istiyorum. Arduino sketchlerini hazırlamak ve yüklemek için <a href="http://www.arduino.cc/en/main/Software">Arduino IDE</a>, devre şemalarını hazırlamak için <a href="http://fritzing.org/home/">Fritzing</a> kullanıyorum. Devre şemalaları için bir yazılım kullanmak zorunda dağilsiniz. Ama programları derlemek için bir IDE'ye ihtiyacınız olacak. Arduino IDE basitliğiyle yeni başlayanlar için idealdir. Tavsiye ederim.</p>
+
+<h2>
+<a id="Örnek-devre-ve-kodlar" class="anchor" href="#%C3%96rnek-devre-ve-kodlar" aria-hidden="true"><span class="octicon octicon-link"></span></a>Örnek Devre ve Kodlar</h2>
+
+<h3>
+<a id="arduinoya-giriş-işık-ve-ses" class="anchor" href="#arduinoya-giri%C5%9F-i%C5%9F%C4%B1k-ve-ses" aria-hidden="true"><span class="octicon octicon-link"></span></a>Arduino'ya giriş: Işık ve Ses</h3>
+
+<p>Yeni başlayanlar için hazırlanan dökümanların genellikle led devreleri üzerine olması tesadüf değil. Işık ve ses devreleri en az bileşenle sonuç edelde edebileceğin pratik devrelerdir. Biz de Arduino öğrenmeye led ve buzzer ile başlayacağız.</p>
 
 <ol>
-<li><a href="https://github.com/wizofwor/arduino/tree/master/01-led-yakip-sondurmece">Led Yakıp Söndürmece</a></li>
-<li><a href="https://github.com/wizofwor/arduino/tree/master/02-led-flash">Led Flash (Karaşimşek)</a></li>
-<li><a href="https://github.com/wizofwor/arduino/tree/master/03-button">Buton kontrolü</a></li>
-<li><a href="https://github.com/wizofwor/arduino/tree/master/04-haberlesme">Arduino ile haberleşme</a></li>
+<li><a href="arduinoya-giris/01-led-yakip-sondurmece">Led Yakıp Söndürmece</a></li>
+<li>
+<a href="https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/02-led-flash">Led Flash:</a> Nam-ı diğer Karaşimşek devresi</li>
+<li><a href="https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/03-button">Buton kontrolü</a></li>
+<li><a href="https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/05-LCD-ekran-kullanimi">LCD ekran kullanımı</a></li>
+<li><em><a href="https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/06-Tas-Kagit-Makas">Oyun Molası:</a> Taş-kağıt-makas oyunu</em></li>
+<li>
+<a href="https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/09-7-segmentli-gosterge">7 segmentli gösterge:</a> 7 segmentli gösterge (7 segment display) kullanımı</li>
+<li>
+<a href="https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/10-74HC595">74HC595:</a> Shift register kullanımı</li>
+<li>
+<a href="https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/07-biraz-da-muzik">Biraz da müzik:</a> Buzzer kullanımı</li>
+<li>
+<a href="https://github.com/wizofwor/arduino/tree/master/arduinoya-giris/08-biraz-daha-muzik">Biraz daha müzik</a> Notalar</li>
+</ol>
+
+<h3>
+<a id="ek-bilgiler" class="anchor" href="#ek-bilgiler" aria-hidden="true"><span class="octicon octicon-link"></span></a>Ek bilgiler</h3>
+
+<ol>
+<li><a href="arduinoya-giris/01-led-yakip-sondurmece/led-kullanimi.md">Led kullanimi ve led hesabı</a></li>
+</ol>
+
+<h3>
+<a id="İkinci-bölüm-haberleşme" class="anchor" href="#%C4%B0kinci-b%C3%B6l%C3%BCm-haberle%C5%9Fme" aria-hidden="true"><span class="octicon octicon-link"></span></a>İkinci Bölüm: Haberleşme</h3>
+
+<ol>
+<li>
+<a href="https://github.com/wizofwor/arduino/tree/master/haberlesme/01-haberlesme">Arduino ile haberleşme:</a> Bilgisayarla Arduino arasında veri alış-verişi</li>
 </ol>
 
       <footer class="site-footer">
-        <span class="site-footer-owner"><a href="https://github.com/wizofwor/arduino">Temel Arduino Dersleri</a> is maintained by <a href="https://github.com/wizofwor">wizofwor</a>.</span>
+        <span class="site-footer-owner"><a href="https://github.com/wizofwor/Arduino">Temel Arduino Dersleri</a> is maintained by <a href="https://github.com/wizofwor">wizofwor</a>.</span>
 
         <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
       </footer>
